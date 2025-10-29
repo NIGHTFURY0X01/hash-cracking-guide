@@ -5,11 +5,11 @@
 ---
 
 ## A comprehensive, copy-ready Markdown guide explaining:
-> - a quick hash length → type → `hashcat` mode reference table  
-> - how to install `hashcat` on Linux (multiple distros)  
-> - obtaining and preparing `rockyou.txt` (and other wordlists)  
-> - practical `hashcat` commands and workflows for MD5 / SHA1 / SHA256 examples  
-> - advanced cracking strategies, performance tips, and operational notes
+ - a quick hash length → type → `hashcat` mode reference table  
+ - how to install `hashcat` on Linux (multiple distros)  
+ - obtaining and preparing `rockyou.txt` (and other wordlists)  
+ - practical `hashcat` commands and workflows for MD5 / SHA1 / SHA256 examples  
+ - advanced cracking strategies, performance tips, and operational notes
 
 ---
 
