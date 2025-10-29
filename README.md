@@ -56,9 +56,9 @@ hashcat --version
 
 ## Installing official hashcat release (binary)
 
-+ 1. Download release from the official site (hashcat.net) or GitHub releases.
++ 1)  Download release from the official site (hashcat.net) or GitHub releases.
 
-+ 2. Extract and run the binary `(./hashcat.bin` or symlink to `hashcat`).
++ 2)  Extract and run the binary `(./hashcat.bin` or symlink to `hashcat`).
 
 ## GPU drivers
 + NVIDIA: install the latest proprietary driver & CUDA toolkit as needed.
