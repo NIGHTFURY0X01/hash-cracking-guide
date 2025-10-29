@@ -4,7 +4,7 @@
 
 ---
 
-> A comprehensive, copy-ready Markdown guide explaining:
+## A comprehensive, copy-ready Markdown guide explaining:
 > - a quick hash length → type → `hashcat` mode reference table  
 > - how to install `hashcat` on Linux (multiple distros)  
 > - obtaining and preparing `rockyou.txt` (and other wordlists)  
