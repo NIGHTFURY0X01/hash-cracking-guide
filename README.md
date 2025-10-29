@@ -1,4 +1,4 @@
-# Hash Cracking Guide — Reference Table, Installation, rockyou.txt, and Advanced Usage (Deep Dive)
+# Hash Cracking Guide — Reference Table, Installation, rockyou.txt, and Advanced Usage 
 
 **Author:** NIGHTFURY0X01 (Arash)
 
