@@ -314,11 +314,5 @@ hashcat -m 0 -a 1 targets.txt listA.txt listB.txt
 
 + SHA256 example: `hashcat -m 1400 -a 0 -O 916e8c4f79b25028c9e467f1eb8eee6d6bbdff965f9928310ad30a8d88697745 rockyou.txt`
 
-## If you want I can:
 
-+ produce a single runnable script that runs these three tasks and prints results (requires hashcat installed), or
-
-+ generate a compact cheat-sheet PDF from this Markdown, or
-
-+ tailor the guide with recommended rulesets and concrete rule examples (e.g., `best64.rule`, `rockyou-3000.rule`) and show expected runtime estimates for different GPU classes.
 
