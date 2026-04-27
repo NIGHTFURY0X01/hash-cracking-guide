@@ -22,6 +22,17 @@
 | 64 chars  | SHA256    | `-m 1400`    |
 | 128 chars | SHA512    | `-m 1700`    |
 
+| Hash Type | Mode |
+|---------|------|
+| MD5 | 0 |
+| SHA1 | 100 |
+| SHA256 | 1400 |
+| SHA512-crypt | 1800 |
+| bcrypt | 3200 |
+| NTLM | 1000 |
+| MD4 | 900 |
+ 
+
 ### Common Examples
 - **MD5 (32)**: `482c811da5d5b4bc6d497ffa98491e38`  
 - **SHA1 (40)**: `b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3`  
